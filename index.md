@@ -200,6 +200,13 @@ absorb your funds in the next February.
 
 
 
+# Wish List to Policy Makers
+
+We can wish, but yeah, it's a government program.
+
+* allow unlimited transfer from RESP to RRSP, provided the subscriber has room. It all gets taxed anyway on the way. This is one registered program connecting to another registered program.
+* allow subscribers to withdraw their after tax dollars back to themselves without penality. It has already been taxed.
+
 
 
 
