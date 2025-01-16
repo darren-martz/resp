@@ -38,7 +38,7 @@ There are 3 types of funds within every RESP account.
 The government tracks every contribution and grant amount added on an individual basis regardless of the account type. 
 Investment growth in a family account is fully available to every beneficiary without restriction.
 Contributions and grant amounts associated with one beneficiary cannot be used by another beneficiary, while growth amounts can. 
-This matters when it is time to withdraw funds.\
+This matters when it is time to withdraw funds. \
 
 You can transfer RESP amounts to other RESP accounts in full or partial as much as you like, 
 but only if the beneficiary is on both the sending and recieving accounts. 
@@ -50,6 +50,7 @@ The tracking of contribution and grant values cannot be bypassed, and all restri
 This is the exciting time for both the subscribers and the beneficiary as they start a new chapter in their lives with advanced education. 
 Starting classes there are expenses, bills to pay, laptops to buy. Tuition is sometimes paid up front but often delayed payment requirements by weeks which helps.
 Surprise, you do not get access to the funds all at once and certainly not all of your funds. 
+To start the process will require proof of enrollment from the education institution, and will be required every time a withdraw is made.
 
 > This is where some people start not liking the RESP program depending on how much you have accumulated over the years.
 
@@ -66,9 +67,9 @@ The remaining investment growth is withdrawn as EAP and is taxable income.
 > There is a limit annually but not really a limit but good luck with that
 
 There is plenty of documenation both government and 3rd party that claims there is no limit on withdrawing from your RESP accounts. Not true, sort of. 
-While there is no limit, there is a barrier preventing more than $28,881 (as of 2025) for the year./
+While there is no limit, there is a barrier preventing more than $28,881 (as of 2025) for the year. /
 
-[Click here for the official table](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/bulletins/resp-bulletin-1.html).\
+[Click here for the official table](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/bulletins/resp-bulletin-1.html). \
 
 To withdraw more than the annual limit requires you asking for permission to access more. Here is where it gets weird. 
 The government put the policing responsibily on the institution that holds your RESP account. 
@@ -76,13 +77,31 @@ That instituion decides if you are justified in getting the extra cash for your 
 
 This is a good point to talk about what you can use the funds for and what you cannot. 
 Funds can be used for tuition, books, electronics, food, rent, transportation, clothes, and general living. 
-They cannot be used to buy property, vacation, and a buch of other things the CRA likely adjusts from time to time. 
+They cannot be used to buy property, a vacation, or a buch of other things the CRA likely adjusts from time to time. 
+The beneficiary can purchase a car and pay for fuel, parking, and insurance. 
 This is important because while it is extremely unlikely any beneficiary using the annual limit will get auditied by the CRA, it is more likely to occur if you go beyond it.
 Going beyond the limit is allowed and considered "unlimited" but must be justified and policed by the financial institution. 
 If you get audited, you can bet the financial institution is going to draw the CRA's attention as well, so they are not usually motivated to help you. 
 
 > Keep your receipts in case of a CRA audit
 
+If the beneficiary is going to Harvard or somewhere that exceeds the annual limit, justifying and surviving a CRA audit should not be a problem.
+
+
+## Calling the CRA for Guidance ⚠️
+
+A strong word of caution about calling the CRA for guidance on RESP accounts. 
+The first line of agents you talk to will honestly try to help you and have the best intentions, but most often will give you bad and incorrect advise.
+This is because they search pages on canada.ca, apply their thoughts, and respond. 
+Nearly all of the pages on canada.ca about RESP's talk about being unlimited withdraws which is not true, but sort of true. 
+Ask for the CRA department that deals with RESP accounts specifically! They know what can be done and not done very well and in great detail.
+
+## Summer break funding
+
+Most educational institutions (Universities, Colleges, Trade Schools) take the summer off, or lighten the studies during the summer months. 
+It's important as Canadian's get our vitamin D. 
+The government recognizes that between terms, like summer, the student does not magically not require food and shelter.
+If the annual limit is not enough to accomodate for the entire year, put a budget together showing that and require further funds from the RESP.
 
 
 
