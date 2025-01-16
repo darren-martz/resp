@@ -169,23 +169,28 @@ Here is an example table to consider.
 | 22 | 5 | 0 | 0 | 110,360 | 31,261 |
 
 At first you are thinking how amazing that is, I'll just give that $110,000 to my kid. Nope, you cannot. No No No. Not that easy. 
-Geez, imagine you achieved that with 2 kids, 3 kids, or more kids. It balances out better if you contribute $2,000 annually per kid in this model, but you can see the point.
+The government demands its pound of flesh here which we will get into shortly.
+Geez, imagine this big win, better yet achieving that with 2 kids, 3 kids, or more kids, and how nice it would be to just take that money back.
 
-Okay, so why can you not give the money to your kid? Because its still in the RESP program and your kid has graduated. If they continue studies, great, but let's assume they do not for this example. The RESP program ONLY lets the beneficiary recieve funds while in an education program with all the limit and use contraints we previously covered. 
-The following is a list of extraction options to get the money out.
+> the table balances out nicer if you contribute $2,000 annually per kid based on this growth and grant model
+
+Okay, so why can you not give the money to your kid? Because its still in the RESP program and your kid has graduated. If they continue studies, great, but let's assume they do not for this example. The RESP program ONLY lets the beneficiary recieve funds, directly, while in an education program with all the limit and use contraints we previously covered. 
+The following is a list of extraction options we now have to work with:
 
 1. donate it to the government. It's really an option presented on Canada.ca site. Don't do this ever.
-2. transfer up to $50,000 into the subscribers RRSP account. This is a once in the subscribers lifetime event. If you have 2 kids, you still can only do this once ever and it is restricted to only go to the subscriber(s) and nobody else. You also must already have room on your RRSP limit for this.
-3. extract funds back to the subscriber(s) as taxable income. That seems reasonable, except the government charges 20% before it hits your income tax.
+2. transfer the funds to another sibling so they can use it. Just do it before they turn 19 or its not allowed. 
+3. transfer up to $50,000 into the subscribers RRSP account. This is a once in the subscribers lifetime event. If you have 2 kids, you still can only do this once ever and it is restricted to only go to the subscriber(s) and nobody else. Joint subscribers here does help! You also must already have room on your RRSP limit for this.
+4. extract funds back to the subscriber(s) as taxable income. That seems reasonable, except the government charges 20% then they charge you income tax after that 😠. This may be the worst tax penalty of all government programs in Canada!
 
-Now you can see why a joint account is better, so you can distribute some of the taxes and allow for both subscribers to receive RRSP transfers. 
+Now you can see why a joint account is better. You can distribute some of the taxes and allow for both subscribers to receive RRSP transfers. Unfortunately if you setup your RESP accounts under one subscriber, it cannot be changed.
 
 Extracting funds back to the subscriber is called AIP (Accumulated Income Payments), including extracting to an RRSP. 
 The RRSP extraction is only allowed if ALL beneficiaries are 21 years or older and the RRSP account has existed for 10+ years.
-Once an AIP withdraw happens on an RESP account, that account MUST be closed by the nearest February or all its value gets absorbed by the government. 
+Once an AIP withdraw happens on an RESP account, that account MUST be closed by the nearest February or all its value gets absorbed by the government 😠. 
 This is a good time to remind you there is no limit on the number of RESP accounts and you can transfer full or partial amounts between them.
 
 Let's get back to unpacking this example. 
+
 We have the $110,360 to work with and off the top there is a 20% fee taken by the government resulting in $88,288. 
 Whatever the subscribers income is already, add the $88,288 to that amount and adjust your income tax accordingly for your household. Ouch! 
 The funds are now taxed and if you want to give that to your kid, go for it. Just remember to hold back a bunch to support your own tax increase.
