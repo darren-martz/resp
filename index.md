@@ -1,5 +1,14 @@
 # Notes on RESP Accounts 🇨🇦
 
+Disclaimer, this is what my learnings have been over the past couple years and are only offered to help you on your journey. 
+By reading this, you agree not to sue me. This is not my job, and my intent is simply to help you along your journey.    
+
+I may have missed something, or not talked about every part of the RESP program.
+During my journey I have spoken with a first level CRA agent, an RESP CRA specialist, and someone in the RESP group that manages the government program. 
+I have also learned that most financial advisors come in hot and confident about RESP rules, but I have yet to find a single one that knows as much as I am 
+about to share with you here. It's not the advisors fault, most do very little with the program or work in the very basics. 
+Some of what I will share touches on topics like "what if I have too much", which yes, does happen.
+
 ## Institutions
 
 A financial institution is where you will create and manage your RESP accounts. 
@@ -27,6 +36,9 @@ There are both good and bad reasons for withdrawing the funds back to the subscr
 
 There is nothing stopping you from creating multiple accounts, both individual and family. You can have accounts in different institutions as well. 
 
+A joint subscriber account allows you to distribute the income between 2 people should you need to take the funds back. 
+Read below on the pain of getting the funds back to the subscriber to better understand why this matters.
+
 
 ## Funds have categories
 
@@ -38,11 +50,20 @@ There are 3 types of funds within every RESP account.
 The government tracks every contribution and grant amount added on an individual basis regardless of the account type. 
 Investment growth in a family account is fully available to every beneficiary without restriction.
 Contributions and grant amounts associated with one beneficiary cannot be used by another beneficiary, while growth amounts can. 
-This matters when it is time to withdraw funds. \
+This matters when it is time to withdraw funds. 
 
 You can transfer RESP amounts to other RESP accounts in full or partial as much as you like, 
 but only if the beneficiary is on both the sending and recieving accounts. 
-The tracking of contribution and grant values cannot be bypassed, and all restrictions associated follow no matter how much you move the funds around.
+The tracking of contribution and grant values cannot be bypassed, and all restrictions associated follow no matter how much you move the funds around. 
+
+You cannot transfer RESP funds from a single subscriber account to a joint subscriber account or to an account of a different subscriber. 
+Changing who the subscriber is, is not allowed every for any of it. Ever.
+
+
+## Contributing Funds
+
+Each beneficiary has a maximum of $50,000 total contribution they are allowed across all of their RESP accounts. That is a hard limit per kid. 
+Contributions made are matched by the government as a grant of 20% of what you contribute to a maximum of $500. For example, if you contribute $500, the grant for that year is $100. If you contribute $2,500, the grant for that year is $500. If you contribute $5,000, the grant for that year is $500.
 
 
 ## Withdrawing Funds for Education
@@ -102,6 +123,76 @@ Most educational institutions (Universities, Colleges, Trade Schools) take the s
 It's important as Canadian's get our vitamin D. 
 The government recognizes that between terms, like summer, the student does not magically not require food and shelter.
 If the annual limit is not enough to accomodate for the entire year, put a budget together showing that and require further funds from the RESP.
+
+## Things to ponder on while eating a biscuit
+
+* invest the RESP funds in a blue chip stock like Microsoft, Apple, Coke, or Costco. Something that everyone uses and continues to steadily grow. Then sit on it and don't touch it for 10 years while your kid grows up.
+* consider not using RESP much or at all. A growing TFSA is far better considering its tax free growth.
+* plan ahead if you think it will grow too big over time. Seriously, do things like start with a joint RESP subscriber.
+* withdraw the contribution funds first. Your kid will likely start in September, a partial year, pull the full annual amount out if you have it, it's tax free.
+* withdraw the maximum amount every year you can, always, even if it is not needed. Start your kid on a TFSA if there is extra funds.
+* it is far easier to withdraw the full annual amount in January than little bits over the year
+
+## Overgrowth
+
+Yes, this can happen and yes this is where you may start to hate the program a little. Let's run a scenario where you get the most out of the program by contributing $2,500 
+annually to your kids RESP starting at age 2, all the way to age 17. That is $40,000 of after tax dollars that you saved from your own income and/or from relatives and friends. 
+Every year, the government will grant your RESP $500 (see above section about contribution funds for details), totalling $3,000 added each year. 
+Let's say you invested all that money in the NASDAQ Index fund. It represents all stocks in the NASDAQ and has averaged 14% growth over the past decade as of 2025. 
+After completing 5 years of post secondary education, there would be an extra $110,000 still in the RESP account.
+
+Here is an example table to consider. 
+
+| AGE | University Year | Contribution | Grant | RESP Balance | Withdraw |
+|---|---|---|---|---|---|
+| 1 | x | 0 | 0 | 0 | 0 |
+| 2 | x | 2,500 | 500 | 3,420 | 0 |
+| 3 | x | 2,500 | 500 | 7,319 | 0 |
+| 4 | x | 2,500 | 500 | 11,763 | 0 |
+| 5 | x | 2,500 | 500 | 16,830 | 0 |
+| 6 | x | 2,500 | 500 | 22,607 | 0 |
+| 7 | x | 2,500 | 500 | 29,191 | 0 |
+| 8 | x | 2,500 | 500 | 36,698 | 0 |
+| 9 | x | 2,500 | 500 | 45,256 | 0 |
+| 10 | x | 2,500 | 500 | 55,012 | 0 |
+| 11 | x | 2,500 | 500 | 66,134 | 0 |
+| 12 | x | 2,500 | 500 | 78,812 | 0 |
+| 13 | x | 2,500 | 500 | 93,266 | 0 |
+| 14 | x | 2,500 | 500 | 109,743 | 0 |
+| 15 | x | 2,500 | 500 | 128,527 | 0 |
+| 16 | x | 2,500 | 500 | 149,941 | 0 |
+| 17 | x | 2,500 | 500 | 174,353 | 0 |
+| 18 | 1 | 0 | 0 | 165,839 | 28,880 |
+| 19 | 2 | 0 | 0 | 155,475 | 29,458 |
+| 20 | 3 | 0 | 0 | 142,988 | 30,047 |
+| 21 | 4 | 0 | 0 | 128,068 | 30,648 |
+| 22 | 5 | 0 | 0 | 110,360 | 31,261 |
+
+At first you are thinking how amazing that is, I'll just give that $110,000 to my kid. Nope, you cannot. No No No. Not that easy. 
+Geez, imagine you achieved that with 2 kids, 3 kids, or more kids. It balances out better if you contribute $2,000 annually per kid in this model, but you can see the point.
+
+Okay, so why can you not give the money to your kid? Because its still in the RESP program and your kid has graduated. If they continue studies, great, but let's assume they do not for this example. The RESP program ONLY lets the beneficiary recieve funds while in an education program with all the limit and use contraints we previously covered. 
+The following is a list of extraction options to get the money out.
+
+1. donate it to the government. It's really an option presented on Canada.ca site. Don't do this ever.
+2. transfer up to $50,000 into the subscribers RRSP account. This is a once in the subscribers lifetime event. If you have 2 kids, you still can only do this once ever and it is restricted to only go to the subscriber(s) and nobody else. You also must already have room on your RRSP limit for this.
+3. extract funds back to the subscriber(s) as taxable income. That seems reasonable, except the government charges 20% before it hits your income tax.
+
+Now you can see why a joint account is better, so you can distribute some of the taxes and allow for both subscribers to receive RRSP transfers. 
+
+Extracting funds back to the subscriber is called AIP (Accumulated Income Payments), including extracting to an RRSP. 
+The RRSP extraction is only allowed if ALL beneficiaries are 21 years or older and the RRSP account has existed for 10+ years.
+Once an AIP withdraw happens on an RESP account, that account MUST be closed by the nearest February or all its value gets absorbed by the government. 
+This is a good time to remind you there is no limit on the number of RESP accounts and you can transfer full or partial amounts between them.
+
+Let's get back to unpacking this example. 
+We have the $110,360 to work with and off the top there is a 20% fee taken by the government resulting in $88,288. 
+Whatever the subscribers income is already, add the $88,288 to that amount and adjust your income tax accordingly for your household. Ouch! 
+The funds are now taxed and if you want to give that to your kid, go for it. Just remember to hold back a bunch to support your own tax increase.
+
+You could split that over multiple years to lesson the burden which might be better, just remember to create different RESP accounts to avoid having the government
+absorb your funds in the next February.
+
 
 
 
