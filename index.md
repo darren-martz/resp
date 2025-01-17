@@ -38,7 +38,11 @@ You cannot transfer RESP funds from a single subscriber account to a joint subsc
 
 ## Contributing Funds
 
-Each beneficiary has a maximum of $50,000 total contribution they are allowed across all of their RESP accounts. That is a hard limit per kid. Contributions made are matched by the government as a grant of 20% of what you contribute to a maximum of $500. For example, if you contribute $500, the grant for that year is $100. If you contribute [...]
+Each beneficiary has a maximum of $50,000 total contribution they are allowed across all of their RESP accounts. That is a hard limit per kid. Contributions made are matched by the government as a grant of 20% of what you contribute to a maximum of $500. For example, 
+* if you contribute $0, the grant for that year is $0.
+* if you contribute $500, the grant for that year is $100.
+* if you contribute $2,500, the grant for that year is $500.
+* if you contribute $5,000, the grant for that year is $500 which is the limit.
 
 ## Withdrawing Funds for Education
 
