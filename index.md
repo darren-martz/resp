@@ -46,7 +46,7 @@ Each beneficiary has a maximum of $50,000 total contribution they are allowed ac
 
 ## Withdrawing Funds for Education
 
-This is the exciting time for both the subscribers and the beneficiary as they start a new chapter in their lives with advanced education. Starting classes there are expenses, bills to pay, laptops to buy. Tuition is sometimes paid upfront but often delayed payment requirements by weeks which helps. Surprise, you do not get access to the funds all at once and certainly not all of your funds. To start the process will require proof of enrollment from the educational institution, and will be required every time a withdrawal is made.
+This is the exciting time for both the subscribers and the beneficiary as they start a new chapter in their lives with advanced education. Starting classes there are expenses, bills to pay, sports, activity fees, laptops to buy. Tuition is sometimes paid upfront but often delayed payment requirements by weeks which helps. Surprise, you do not get access to the funds all at once and certainly not all of your funds. To start the process will require proof of enrollment from the educational institution, and will be required every time a withdrawal is made.
 
 > This is where some people start not liking the RESP program depending on how much you have accumulated over the years.
 
@@ -78,7 +78,7 @@ Most educational institutions (Universities, Colleges, Trade Schools) take the s
 
 ## Things to ponder on while eating a biscuit
 
-* Invest the RESP funds in a blue-chip stock like Microsoft, Apple, Coke, or Costco. Something that everyone uses and continues to steadily grow. Then sit on it and don't touch it for 10 years while y[...]
+* Invest the RESP funds in a blue-chip stock like Microsoft, Apple, Coke, or Costco. Something that everyone uses and continues to steadily grow. Then sit on it and don't touch it for 10 years while your kid grows up.
 * Consider not using RESP much or at all. A growing TFSA is far better considering its tax-free growth.
 * Plan ahead if you think it will grow too big over time. Seriously, do things like start with a joint RESP subscriber.
 * Withdraw the contribution funds first. Your kid will likely start in September, a partial year, pull the full annual amount out if you have it, it's tax-free.
@@ -124,12 +124,12 @@ Okay, so why can you not give the money to your kid? Because it's still in the R
 
 1. Donate it to the government. It's really an option presented on Canada.ca site. Don't do this ever.
 2. Transfer the funds to another sibling so they can use it. Just do it before they turn 19 or it's not allowed. 
-3. Transfer up to $50,000 into the subscriber's RRSP account. This is a once in the subscriber's lifetime event. If you have 2 kids, you still can only do this once ever and it is restricted to only go [...]
+3. Transfer up to $50,000 into the subscriber's RRSP account. This is a once in the subscriber's lifetime event. If you have 2 kids, you still can only do this once ever and it is restricted to only go to the subscriber(s) and nobody else. Joint subscribers here does help!
 4. Extract funds back to the subscriber(s) as taxable income. That seems reasonable, except the government charges 20% then they charge you income tax after that 😠. This may be the worst tax penalty.
 
-Now you can see why a joint account is better. You can distribute some of the taxes and allow for both subscribers to receive RRSP transfers. Unfortunately, if you set up your RESP accounts under one [...]
+Now you can see why a joint account is better. You can distribute some of the taxes and allow for both subscribers to receive RRSP transfers. Unfortunately, if you set up your RESP accounts under one subscriber it cannot be changed.
 
-Extracting funds back to the subscriber is called AIP (Accumulated Income Payments), including extracting to an RRSP. The RRSP extraction is only allowed if ALL beneficiaries are 21 years or older and the RRSP account has existed for 10+ years. Once an AIP withdrawal happens on an RESP account, that account MUST be closed by the nearest February or all its value gets absorbed by the government 😠. This is a good time to remind you there is no limit on the number of RESP accounts and you can transfer full or partial amounts between them.
+Extracting funds back to the subscriber is called AIP (Accumulated Income Payments), including extracting to an RRSP. The RRSP extraction is only allowed if ALL beneficiaries are 21 years or older, no longer in need of education, and the RRSP account has existed for 10+ years. Once an AIP withdrawal happens on an RESP account, that account MUST be closed by the nearest February or all its value gets absorbed by the government 😠. This is a good time to remind you there is no limit on the number of RESP accounts and you can transfer full or partial amounts between them.
 
 Let's get back to unpacking this example. 
 
