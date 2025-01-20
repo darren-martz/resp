@@ -2,7 +2,7 @@
 
 Disclaimer, these are my learnings over the past couple of years and are only offered to help you on your journey. By reading this, you agree not to sue me. This is not my job, and my intent is simply to help you along your journey.    
 
-I may have missed something, or not talked about every part of the RESP program. During my journey, I have spoken with a first-level CRA agent, an RESP CRA specialist, and someone in the RESP group that manages the government program. I have also learned that most financial advisors come in hot and confident about RESP rules, but I have yet to find a single one that knows as much as I am about to share with you here. It's not the advisor's fault, most do very little with the program or work in the very basics. Some of what I will share touches on topics like "what if I have too much," which yes, does happen.
+I may have missed something, or not talked about every part of the RESP program. During my journey, I have spoken with a first-level CRA agent, an RESP CRA specialist, and someone in the RESP group that manages the government program. I have also learned that most financial advisors struggle with the finer details when considering getting funds out of the program. Some of what I will share touches on topics like "what if I have too much," which yes, does happen.
 
 ## Institutions
 
